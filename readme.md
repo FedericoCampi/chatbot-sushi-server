@@ -8,7 +8,7 @@ Este proyecto es un chatbot para realizar pedidos de sushi. Implementado con **N
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/fakestore-api.git
+   git clone https://github.com/FedericoCampi/chatbot-sushi-server.git
    cd chatbot-sushi_server
 
    npm install
